@@ -16,6 +16,7 @@ describe(`${scenarioName} - ${module} `, () => {
         data.producto = `${data.producto}-${testCaseId}`
             cy.log(`Crear el producto ${data.producto}`)
             cy.log(`Eliminar el producto ${data.producto}`)
+           
 
       })
       
