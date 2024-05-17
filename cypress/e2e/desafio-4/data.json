@@ -1,9 +1,16 @@
 {    
-    "product": {
+    "product1": {
         "name" : "Puma Short",
         "price": 25,
         "img" : "https://www.google.com/search?sca_esv=0498115c76c36171&sca_upv=1&sxsrf=ACQVn08XxxD64Ko6UFRoMlXpbgQH-xpMFg:1714326692549&q=Puma+short&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwjynabMvOWFAxVtqJUCHdSyB5MQ0pQJegQIERAB&biw=1920&bih=945&dpr=1#imgrc=RvHSwM69GqtBJM",
         "id" : " 5432"
-    }    
+    },
+
+    "product2": {
+        "name" : "Remera Short",
+        "price": 35,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1pA0M_mdtUTaZrgjzFualoNild14RHbn6iQ&usqp=CAU",
+        "id" : " 2345"
+    }  
        
 }
